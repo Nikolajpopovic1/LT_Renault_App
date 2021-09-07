@@ -1,0 +1,2 @@
+<?php 
+$passs = 'nikimiki';
